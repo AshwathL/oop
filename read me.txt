@@ -1,0 +1,1 @@
+this is java code that prints the marksheets or results of the student according to the marks entered for each subjects
